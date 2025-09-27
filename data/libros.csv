@@ -1,0 +1,21 @@
+ID_Libro,Titulo,Autor,Genero,Precio,Calificacion
+1,El principito,Antoine de Saint-Exupéry,Fábula,12.50,4.8
+2,Cien años de soledad,Gabriel García Márquez,Realismo mágico,25.00,4.9
+3,1984,George Orwell,Distopía,15.75,4.7
+4,El señor de los anillos,J.R.R. Tolkien,Fantasía,30.00,4.9
+5,Orgullo y prejuicio,Jane Austen,Romance,10.00,4.5
+6,El código Da Vinci,Dan Brown,Misterio y thriller,18.00,4.2
+7,Harry Potter y la piedra filosofal,J.K. Rowling,Fantasía,20.00,4.8
+8,  Crimen y castigo  ,Fiódor Dostoievski,   Crimen,22.00,4.6
+9,El alquimista,Paulo Coelho,,15.00,
+10,Rayuela,Julio Cortázar,Experimental,28.50,4.5
+11,El nombre del viento,Patrick Rothfuss,Fantasía,27.00,4.8
+12,Don Quijote de la Mancha,Miguel de Cervantes,Clásico,$45.00,
+13,El retrato de Dorian Gray,Oscar Wilde,Gótica,14.00,4.4
+14,Drácula,Bram Stoker, Terror,16.00,4.3
+15,  Los juegos del hambre,Suzanne Collins,Ciencia ficción,$19.99,4.2
+16,Sapiens,Yuval Noah Harari,No ficción,26.00,4.7
+17,Un mundo feliz,Aldous Huxley,Distopía,17.50,4.6
+18,El lobo estepario,Hermann Hesse,Clásico,13.00,4.1
+19,Los pilares de la Tierra,Ken Follett,Histórica,35.00,4.8
+20,  El psicoanalista,John Katzenbach,Misterio y thriller,$20.00,4.4
